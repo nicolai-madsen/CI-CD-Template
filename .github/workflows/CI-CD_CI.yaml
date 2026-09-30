@@ -10,7 +10,7 @@ permissions:
 
 env:
   DOTNET_VERSION: "10.0.x"
-  SOLUTION_PATH: "CI-CD-Template.slnx"
+  SOLUTION_PATH: "CICD-Template.slnx"
 
 jobs:
   build-and-test:
